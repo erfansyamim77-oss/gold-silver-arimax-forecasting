@@ -4,7 +4,7 @@
 
 This project examines the relationship between macroeconomic factors and gold and silver prices using Regression and ARIMAX models.
 
-For regression, you can click on raw to download the folder.
+For regression, you can click on view raw to download the folder.
 
 The main objective is to identify which macroeconomic factors are significantly associated with gold and silver prices over time, while accounting for their past model errors for forcasting.
 
